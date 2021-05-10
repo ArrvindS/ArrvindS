@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArrvindS
-- 👀 I’m interested in Software Development Game Development System Analyst 
+- 👀 I’m interested in creating soemthing new using Programming. 
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me 4597arrvinds@gmail.com
